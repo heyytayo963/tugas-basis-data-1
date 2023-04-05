@@ -1,4 +1,4 @@
-#Tugas-Basis-Data
+## Tugas-Basis-Data
 
 1. Membuat sebuah database dengan nama latihan001!
 ``` 
